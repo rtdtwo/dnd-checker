@@ -33,3 +33,6 @@ def get_dnd_status(phone):
         result = {'phone': phone, 'dnd_status': dnd_status}
 
     return status_code, result
+
+# UNCOMMENT THIS LINE IF YOU WISH TO RUN THE CODE MANUALLY
+# print(get_dnd_status('9876543210'))
