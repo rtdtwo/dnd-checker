@@ -1,3 +1,6 @@
+# BROKEN
+TRAI has closed their NCCP registry search. Therefore, this tool no longer works, sorry!
+
 # DND Checker
 A tool that scrapes official TRAI NCCP registry (http://www.nccptrai.gov.in/nccpregistry/search.misc) to return DND status of a given number. Useful for telecalling applications.
 
